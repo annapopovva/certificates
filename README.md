@@ -1,2 +1,2 @@
-Digital Marketing Certificate
+# Digital Marketing Certificate
 Google Digital Garage
